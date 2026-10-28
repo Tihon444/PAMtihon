@@ -1,0 +1,8 @@
+{
+  "doctors": [
+    {"id":"doctor-001","name":"Dr. Emmly Lestiryno","specialty":"General Practitioner","service":"General","distance":"500 m de tine","rating":4.9,"about":"Medic generalist cu experiență în consultații preventive și îngrijire primară.","avatarUrl":"https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=300&q=80"},
+    {"id":"doctor-002","name":"Dr. Sonja Litel","specialty":"Dental Specialist","service":"Tooth","distance":"753 m de tine","rating":4.8,"about":"Specialistă în diagnostic dentar, igienizare și tratamente personalizate.","avatarUrl":"https://images.unsplash.com/photo-1538108149393-fbbd81895907?auto=format&fit=crop&w=300&q=80"},
+    {"id":"doctor-003","name":"Dr. Alex Morgan","specialty":"Ophthalmologist","service":"Eye","distance":"1.2 km de tine","rating":4.7,"about":"Consultații oftalmologice complete și recomandări pentru sănătatea ochilor.","avatarUrl":"https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&w=300&q=80"},
+    {"id":"doctor-004","name":"Dr. Maya Chen","specialty":"Pulmonologist","service":"Lungs","distance":"2.1 km de tine","rating":4.9,"about":"Evaluare și tratament pentru afecțiuni respiratorii la adulți și copii.","avatarUrl":"https://images.unsplash.com/photo-1582750433449-648ed127bb54?auto=format&fit=crop&w=300&q=80"}
+  ]
+}
